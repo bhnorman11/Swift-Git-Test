@@ -24,6 +24,10 @@
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2018-11-15 at 19.01.26" translatesAutoresizingMaskIntoConstraints="NO" id="dnU-g5-vLs">
+                                <rect key="frame" x="42" y="254" width="240" height="128"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <color key="backgroundColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -33,4 +37,7 @@
             </objects>
         </scene>
     </scenes>
+    <resources>
+        <image name="Screen Shot 2018-11-15 at 19.01.26" width="303" height="241"/>
+    </resources>
 </document>
